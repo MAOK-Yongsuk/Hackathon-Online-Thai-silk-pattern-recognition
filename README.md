@@ -2,7 +2,7 @@
 
 kaggle : https://www.kaggle.com/competitions/hackathon-online-thai-silk-pattern-recognition
 
-### Assess yourself for this round of competition.
+### Assess myself for this round of competition.
 
 | 💚  | 💛 | ❤️ |
 | --- | --- | --- |
